@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://github.com/harsh-agr79/harsh-agr79"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/harsh-agr79/harsh-agr79/graphs/contributors"><img src="https://img.shields.io/github/contributors/harsh-agr79/harsh-agr79?color=blue"></a>
     <a href="https://github.com/harsh-agr79"><img src="https://img.shields.io/github/stars/harsh-agr79"></a>
     <a href="https://github.com/harsh-agr79/harsh-agr79/network/members"><img src="https://img.shields.io/github/forks/harsh-agr79/harsh-agr79.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-agr79.harsh-agr79" alt="visitors"/>
