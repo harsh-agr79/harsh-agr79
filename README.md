@@ -19,7 +19,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
-![Next.js](https://img.shields.io/badge/-Next-555?style=flat&logo=next)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
