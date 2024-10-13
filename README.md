@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Laravel-555?style=flat&logo=laravel)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
