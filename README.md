@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="40%" src="./me.png">
+    <img width="30%" src="./me.png">
 </p>
 
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to experience new things in life. I have a great experience in Laravel, Next.js, Machine Learning, Restful APIs, python, Java, C/C++ and IOT.</b>
